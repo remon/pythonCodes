@@ -3,10 +3,10 @@
 Assignment operators means:
 adding a new value to variable , ike increase value / decrease / multiply and more
 
-		Operator 		| Description
-	---------------------------
-	= equal		 		| Assigns values from right side operands to left side operand for example: a = 10 or c = a + b assigns value of a + b into c
-	+= Add AND			| It adds right operand to the left operand and assign the result to left operand
+		Operator 	| Description
+	------------------------------------------
+	= equal		 	| Assigns values from right side operands to left side operand for example: a = 10 or c = a + b assigns value of a + b into c
+	+= Add AND		| It adds right operand to the left operand and assign the result to left operand
 	-= Subtract AND 	| It subtracts right operand from the left operand and assign the result to left operand
 	*= Multiply AND		| It multiplies right operand with the left operand and assign the result to left operand
 	/= Divide AND		| It divides left operand with the right operand and assign the result to left operand
