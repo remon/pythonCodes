@@ -13,8 +13,8 @@ If you want to be a participant in the Python Code project, you should follow th
 
 
 ```
-example 1
-#added by @remon
+#example 1
+#added by @AuthorGithubUsername <Name> 
 #This example show you how to print string 
 print(str1)
 ```
