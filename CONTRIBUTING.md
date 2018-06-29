@@ -25,6 +25,10 @@ print(str1)
 
  example (Strings_Examples_En.py)
 
+### Version of Python 
+
+Python 3
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
