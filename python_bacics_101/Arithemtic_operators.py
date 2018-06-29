@@ -8,15 +8,15 @@ Here, + is the operator that performs addition.
 2 and 3 are the operands and 5 is the output of the operation.
 
 what is Arithmetic Operators means ? 
-	Operator 			| Description
-	---------------------------
-	+ Addition 			| Adds values on either side of the operator.
+	Operator 		| Description
+	-----------------------------------------------
+	+ Addition 		| Adds values on either side of the operator.
 	- Subtraction 		| Subtracts right hand operand from left hand operand.
 	* Multiplication 	| Multiplies values on either side of the operator 
-	/ Division 			| Divides left hand operand by right hand operand 
-	% Modulus 			| Divides left hand operand by right hand operand and returns remainder
-	** Exponent			| Performs exponential (power) calculation on operators
-	// 	Floor Division	| he division of operands where the result is the quotient in which the digits after the decimal point are removed. But if one of the operands is negative, the result is floored, i.e., rounded away from zero
+	/ Division 		| Divides left hand operand by right hand operand 
+	% Modulus 		| Divides left hand operand by right hand operand and returns remainder
+	** Exponent		| Performs exponential (power) calculation on operators
+	// Floor Division	| he division of operands where the result is the quotient in which the digits after the decimal point are removed. But if one of the operands is negative, the result is floored, i.e., rounded away from zero
 
 when do we use it ? 
 we use this kind of every where form basic math operation to loops or condition statements 
