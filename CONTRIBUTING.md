@@ -7,9 +7,9 @@ We'd love your help! This doc covers how to become a contributor and submit code
 
 If you want to be a participant in the Python Code project, you should follow the instructions in the form of writing the examples as follows:
 
-1 - Type the example number
-2 - Write your github username (and your full name if you wish )
-3 - Write a brief explanation of the example does not exceed one line.
+1. Type the example number
+2. Write your github username (and your full name if you wish )
+3. Write a brief explanation of the example does not exceed one line.
 
 
 ```
@@ -18,7 +18,7 @@ example 1
 #This example show you how to print string 
 print(str1)
 ```
-=======
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
