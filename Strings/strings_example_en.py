@@ -20,3 +20,10 @@ print(str2)
 #added by @remon
 str3 ="2018"
 print(str3)
+
+#example 4
+#added by @ammore
+# this example explain how to Concatenate two strings
+str1 = "hi "
+str2 = "all"
+print (str1 + str2)
