@@ -19,6 +19,12 @@ If you want to be a participant in the Python Code project, you should follow th
 print(str1)
 ```
 
+#### You must put the file in its right catrgory 
+## Files Names
+ CategoryName_Examples_Lang.py
+
+ example (Strings_Examples_En.py)
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,

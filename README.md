@@ -11,10 +11,7 @@ The project is divided into categories , each category contains subcategories an
 
 
 ## Contributing
-
-will be updated soon. 
-
-
+see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details
 
 
 
