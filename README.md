@@ -1,18 +1,18 @@
 # PythonCodes
 
-This project was created and maintained by students and tutors from (1 million arab coders initiative) .
+This project was created and maintained by students and tutors from (1 million arab coders initiative).
 
-Students from 22 arab countries add their python examples and tutorials to make an encyclopedia for Python Language 
+Students from 22 arab countries add their python examples and tutorials to make an encyclopedia for Python language.
 
 ## Getting Started
 
-The project is divived into categories , each category contains subcategories and examples for it in three different languages (English , Arabic and French )
+The project is divided into categories , each category contains subcategories and examples for it in three different languages (English , Arabic and French).
 
 
 
 ## Contributing
 
-will be updated soon 
+will be updated soon. 
 
 
 
