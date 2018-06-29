@@ -1,3 +1,8 @@
+#Imane OUBALID: Une jeune marocaine, titulaire d'un master en  Réseaux et Systèmes Informatique. 
+#Elle dispose d'un esprit d'analyse, de synthèse, d'une capacité d'adaptation aux nouvelles situations, 
+#et elle est passionnée par la programmation et les nouvelles technologies.
+
+
 #Booleen est un type de donnees qui ne peut prendre que deux valeurs logique: vrai (True) ou faux (False)
 #Il utilise d'autre expression tell que: et(and) non(not) ou(or)
 #A note il faut respecter l'ecriture des mots clea = 6
