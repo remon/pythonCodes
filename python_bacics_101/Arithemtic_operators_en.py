@@ -21,32 +21,33 @@ what is Arithmetic Operators means ?
 when do we use it ? 
 we use this kind of every where form basic math operation to loops or condition statements 
 ''' 
+from __future__ import print_function
 a = 20 ; b = 10
 
 # Addition operator
 c = a + b
-print "Addition value =" , c
+print("Addition value =" , c)
 
 # Subtraction operator
 c = a - b
-print "Subtraction value = " , c
+print("Subtraction value = " , c)
 
 # Multipliction operator 
 c = a * b
-print "Multipliction value = " , c
+print("Multipliction value = " , c)
 
 # Division operator 
 c = a / b
-print "Division value = " , c
+print("Division value = " , c)
 
 # Mod operator 
 c = a % b
-print "Mod value = " , c
+print("Mod value = " , c)
 
 # Exponent or power operator
 a = 2 ; b = 3 
 c = a ** b
-print "Exponent value = " , c
+print("Exponent value = " , c)
 
 # floor Division or integer division operator
 '''
@@ -56,4 +57,4 @@ the floor Division or integer divisio will return 2 mean return only the integer
 '''
 a = 9 ; b = 4 
 c = a // b 
-print "Integer Division value = " , c
+print("Integer Division value = " , c)

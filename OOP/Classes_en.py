@@ -1,3 +1,4 @@
+from __future__ import print_function
 #declare a class
 
 #Synatx
@@ -17,10 +18,10 @@ class Car:
        
 NewCar = Car("I8", 200000)
 
-print  "Car Name " + NewCar.CarName + "  Car Price " + str(NewCar.Price)
+print("Car Name " + NewCar.CarName + "  Car Price " + str(NewCar.Price))
 
 
-print "Car.__doc__:", Car.__doc__
+print("Car.__doc__:", Car.__doc__)
 
 
 

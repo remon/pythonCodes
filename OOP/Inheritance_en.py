@@ -1,3 +1,4 @@
+from __future__ import print_function
 class Person:
 
     def __init__(self, first, last):
