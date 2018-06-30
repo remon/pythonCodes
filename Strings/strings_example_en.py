@@ -33,7 +33,7 @@ print(result)
 #added by @Takeo. yassine messaoudi 
 str1 = "1 million arab coders "
 a = str1.replace("m" , "M")
-print a 
+print (a) 
 
 
 
