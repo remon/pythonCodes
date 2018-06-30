@@ -7,15 +7,21 @@
 #empty list
 my_list=[]
 
-#list of integers
+#example 2
+#added by anonymous
+#define a list with numbers from 1-5
 my_list=[1,2,3,4,5]
 
+
+#example 3
+#added by anonymous
 #list with mixed datatype
 my_list=[2,"python",2.2]
 
-#example 2
+
+#example 4
 #added by @engshorouq
-#to print specific index
+#print specific index
 
 my_list=['p','y','t','h','o','n']
 print("first index in the list in positive index : ",my_list[0])
