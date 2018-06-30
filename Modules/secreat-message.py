@@ -1,3 +1,10 @@
+#This file contain examples for os module
+#What is os module?
+#is a module using for list files in folder, we can get name of current working directory
+#rename files , write on files
+
+
+
 import os
 
 def rename_files():
