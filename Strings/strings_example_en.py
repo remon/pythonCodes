@@ -30,10 +30,19 @@ result = num1 + num2
 print(result)
 
 #example 5
+
 #added by @Takeo. yassine messaoudi 
 str1 = "1 million arab coders "
 a = str1.replace("m" , "M")
 print (a) 
+
+#example 6
+#added by @ammore5
+#This example demonstrates how to concatenate two strings
+
+str1 = "hi "
+str2 = "there !"
+print str1 + str2 
 
 
 
