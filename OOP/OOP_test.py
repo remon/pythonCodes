@@ -16,10 +16,10 @@ class Kid_info:
 kid = Kid_info("Ahmed", "issa","10","primary school")
 
 
-print kid.first_name
-print kid.last_name
-print kid.age
-print kid.school_level
+print (kid.first_name)
+print (kid.last_name)
+print (kid.age)
+print (kid.school_level)
 
 
 #inheritance example 
@@ -38,7 +38,7 @@ class Parent(Kid_info) :
 
 Father = Parent("ahmed", "jalal", "35", "engenieer" , "2")
 
-print Father.work
+print (Father.work)
                 
 
     
