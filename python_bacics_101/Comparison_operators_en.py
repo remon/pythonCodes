@@ -15,33 +15,34 @@ These operators compare the values on either sides of them and decide the relati
 when do we use it ? 
 we use this kind of operators with condition statements or in loops conditions
 ''' 
+from __future__ import print_function
 a = 10 ; b = 10
 
 #equal 
 if a == b :
-	print "a is equal to b"
+	print("a is equal to b")
 
 #not equal 
 # for this to work we will increase the value of a by 10 by using Assignment operator
 a += 10
-print "a=" , a
+print("a=" , a)
 if a != b :
-	print "a is not equal to b" 
+	print("a is not equal to b") 
 
 # greater than 
 if a > b :
-	print "a is greater than b"
+	print("a is greater than b")
 
 # less than 
 if b < a :
-	print "b is less than a"
+	print("b is less than a")
 # greater or equal 
 if a >= b :
-	print "a is either greater or equal to b"
+	print("a is either greater or equal to b")
 
 #less or equal
 if b <= a :
-	print "b is either less or equal to a"
+	print("b is either less or equal to a")
 
 
 

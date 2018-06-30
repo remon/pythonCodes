@@ -1,3 +1,4 @@
+from __future__ import print_function
 #example1 
 #by @tony.dx.3379aems5
 if True and False:

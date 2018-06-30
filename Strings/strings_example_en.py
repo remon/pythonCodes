@@ -1,3 +1,4 @@
+from __future__ import print_function
 #This file contains some examples for Python Strings 
 #What is Strings in python ?
 #Strings are amongst the most popular types in Python.
