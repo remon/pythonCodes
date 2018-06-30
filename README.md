@@ -13,6 +13,7 @@ The project is divided into categories , each category contains subcategories an
 ## Contributing
 see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details
 
+To See list of contributors check [CONTIBUTORS.md](CONTIBUTORS.md) file for details
 
 
 ## License
