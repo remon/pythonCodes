@@ -8,7 +8,9 @@
 import os
 
 def rename_files():
+	# (1) get file names from a folder
 	file_list = os.listdir(r"C:\Users\user\Desktop\python\pythonCodes\Modules\images") 
+	# r (row path) mean take the string as it's and don't interpreter 
 	saved_path = os.getcwd()
 	print saved_path
 	saved_path = os.chdir(r"C:\Users\user\Desktop\python\pythonCodes\Modules\images")
