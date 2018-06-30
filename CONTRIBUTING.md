@@ -13,11 +13,21 @@ If you want to be a participant in the Python Code project, you should follow th
 
 
 ```
-example 1
-#added by @remon
+#example 1
+#added by @AuthorGithubUsername <Name> 
 #This example show you how to print string 
 print(str1)
 ```
+
+#### You must put the file in its right catrgory 
+## Files Names
+ CategoryName_Examples_Lang.py
+
+ example (Strings_Examples_En.py)
+
+### Version of Python 
+
+Python 3
 
 # Contributing
 
