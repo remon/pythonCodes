@@ -28,3 +28,12 @@ num1 = int(str4[str4.find("2")])
 num2 = int(str4[-1])
 result = num1 + num2 
 print(result)
+
+#example 5
+#added by @Takeo. yassine messaoudi 
+str1 = "1 million arab coders "
+a = str1.replace("m" , "M")
+print a 
+
+
+
