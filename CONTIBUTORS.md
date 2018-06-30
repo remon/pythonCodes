@@ -25,7 +25,7 @@ PythonCodes contributors (sorted alphabetically)
 
 * **[Mena Kamal](https://github.com/MenaKamal)**
 
-  * Full-Stack web developer from Jordan 
+  * Full-Stack web developer from Iraq .
 
 * **[Tony Sader](https://github.com/tonysader)**
 
