@@ -29,3 +29,12 @@ num2 = int(str4[-1])
 result = num1 + num2 
 print(result)
 
+#example 5
+#added by @ammore5
+#This example demonstrates how to concatenate two strings
+
+str1 = "hi "
+str2 = "there !"
+print str1 + str2 
+
+
