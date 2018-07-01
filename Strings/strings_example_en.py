@@ -43,7 +43,7 @@ print (a)
 
 str1 = "hi "
 str2 = "there !"
-print str1 + str2 
+print (str1 + str2) 
 
 
 
