@@ -13,4 +13,4 @@ def fibonacci_cube(num):
     #finally returning the cube of the fibonacci content
     return np.array(lis)**3
 #calling the function with 8 as an example
-fibonacci_cube(8)
+print fibonacci_cube(8)
