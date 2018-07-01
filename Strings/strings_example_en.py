@@ -20,3 +20,11 @@ print(str2)
 #added by @remon
 str3 ="2018"
 print(str3)
+
+#example 4
+#added by @tony.dx.3379aems5
+str4 = "Hello 2 My friends 3"
+num1 = int(str4[str4.find("2")])
+num2 = int(str4[-1])
+result = num1 + num2 
+print(result)
