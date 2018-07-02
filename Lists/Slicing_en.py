@@ -1,4 +1,5 @@
-#added by @Azharo
+#added by @Azharoo
+#Python 3
 # Python slicing is a computationally fast way to methodically access parts of your data.
 
 #Create a list of science subjects and another list of integers from 1-10
