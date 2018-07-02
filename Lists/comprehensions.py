@@ -1,5 +1,5 @@
 
-# Added by @Ammar
+# Added by @ammarasmro
 
 # Comprehensions are very convenient one-liners that allow a user to from a
 # whole list or a dictionary easily
