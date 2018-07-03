@@ -14,3 +14,10 @@ my_list.append(["Python","Language"])
 print(my_list)
 
 
+#add element to my list by second way : using + operator
+my_list=my_list+["version"]
+my_list=my_list+[3]
+my_list=my_list+["intersting","Language"]
+
+#print list to show output
+print(my_list)
