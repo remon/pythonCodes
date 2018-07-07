@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# PythonCodes
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+This project was created and maintained by students and tutors from (1 million arab coders initiative).
 
-## Commands
+Students from 22 arab countries add their python examples and tutorials to make an encyclopedia for Python language.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Getting Started
 
-## Project layout
+The project is divided into categories , each category contains subcategories and examples for it in three different languages (English , Arabic and French).
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+
+## Contributing
+see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details
+
+To See list of contributors check [CONTIBUTORS.md](CONTIBUTORS.md) file for details
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+

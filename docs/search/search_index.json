@@ -2,23 +2,28 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Welcome to MkDocs"
+            "text": "PythonCodes\n\n\nThis project was created and maintained by students and tutors from (1 million arab coders initiative).\n\n\nStudents from 22 arab countries add their python examples and tutorials to make an encyclopedia for Python language.\n\n\nGetting Started\n\n\nThe project is divided into categories , each category contains subcategories and examples for it in three different languages (English , Arabic and French).\n\n\nContributing\n\n\nsee the \nCONTRIBUTING.md\n file for details\n\n\nTo See list of contributors check \nCONTIBUTORS.md\n file for details\n\n\nLicense\n\n\nThis project is licensed under the MIT License - see the \nLICENSE.md\n file for details", 
+            "title": "PythonCodes"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#pythoncodes", 
+            "text": "This project was created and maintained by students and tutors from (1 million arab coders initiative).  Students from 22 arab countries add their python examples and tutorials to make an encyclopedia for Python language.", 
+            "title": "PythonCodes"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#getting-started", 
+            "text": "The project is divided into categories , each category contains subcategories and examples for it in three different languages (English , Arabic and French).", 
+            "title": "Getting Started"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#contributing", 
+            "text": "see the  CONTRIBUTING.md  file for details  To See list of contributors check  CONTIBUTORS.md  file for details", 
+            "title": "Contributing"
+        }, 
+        {
+            "location": "/#license", 
+            "text": "This project is licensed under the MIT License - see the  LICENSE.md  file for details", 
+            "title": "License"
         }, 
         {
             "location": "/Functions/Calculate_Age/", 
