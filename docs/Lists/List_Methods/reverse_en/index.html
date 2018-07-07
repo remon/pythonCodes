@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  <link rel="shortcut icon" href="../../../img/favicon.ico">
+  <title>reverse_en - Python Codes</title>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../../../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="../../../css/highlight.css">
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "reverse_en";
+    var mkdocs_page_input_path = "Lists/List_Methods/reverse_en.md";
+    var mkdocs_page_url = "/Lists/List_Methods/reverse_en/";
+  </script>
+  
+  <script src="../../../js/jquery-2.1.1.min.js"></script>
+  <script src="../../../js/modernizr-2.8.3.min.js"></script>
+  <script type="text/javascript" src="../../../js/highlight.pack.js"></script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+      <div class="wy-side-nav-search">
+        <a href="../../.." class="icon icon-home"> Python Codes</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+	<ul class="current">
+	  
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../../..">Welcome to MkDocs</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Functions</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../Functions/Calculate_Age/">Calculate_Age</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Functions/Functions_example_en/">Functions_example_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Functions/Game/">Game</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Functions/built-in-functions/">built-in-functions</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Functions/lambda_en/">lambda_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Functions/math_functional_en/">math_functional_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Functions/python_exmple_fibonacci_en/">python_exmple_fibonacci_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Functions/revirse_string_en/">revirse_string_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Functions/strip_en/">strip_en</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Lists</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../Dictionary_ex_en/">Dictionary_ex_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../Sets_ex_en/">Sets_ex_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../Slicing_en/">Slicing_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../Tuple_ex_en/">Tuple_ex_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../comprehensions_en/">comprehensions_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../example/">example</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../list_example_ar/">list_example_ar</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../list_example_en/">list_example_en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../list_example_fr/">list_example_fr</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../modify_add_lists/">modify_add_lists</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../pop/">pop</a>
+                </li>
+                <li class=" current">
+                    
+    <span class="caption-text">List Methods</span>
+    <ul class="subnav">
+                <li class="toctree-l3">
+                    
+    <a class="" href="../pop_en/">pop_en</a>
+                </li>
+                <li class="toctree-l3">
+                    
+    <a class="" href="../remove_en/">remove_en</a>
+                </li>
+                <li class="toctree-l3">
+                    
+    <a class="" href="../reverse_ar/">reverse_ar</a>
+                </li>
+                <li class="toctree-l3 current">
+                    
+    <a class="current" href="./">reverse_en</a>
+    <ul class="subnav">
+            
+    <li class="toctree-l4"><a href="#reverse_en">reverse_en</a></li>
+    
+
+    <li class="toctree-l4"><a href="#example-1-reverse-a-list">Example 1: Reverse a List</a></li>
+    
+
+    <li class="toctree-l4"><a href="#operating-system-list">Operating System List</a></li>
+    
+
+    <li class="toctree-l4"><a href="#list-reverse">List Reverse</a></li>
+    
+
+    <li class="toctree-l4"><a href="#updated-list">updated list</a></li>
+    
+
+    <li class="toctree-l4"><a href="#example-2-reverse-a-list-using-slicing-operator">Example 2: Reverse a List Using Slicing Operator</a></li>
+    
+
+    <li class="toctree-l4"><a href="#operating-system-list_1">Operating System List</a></li>
+    
+
+    <li class="toctree-l4"><a href="#reversing-a-list">Reversing a list</a></li>
+    
+
+    <li class="toctree-l4"><a href="#syntax-reversed_list-osstartstopstep">Syntax: reversed_list = os[start:stop:step]</a></li>
+    
+
+    <li class="toctree-l4"><a href="#updated-list_1">updated list</a></li>
+    
+
+    <li class="toctree-l4"><a href="#example-3-accessing-individual-elements-in-reversed-order">Example 3: Accessing Individual Elements in Reversed Order</a></li>
+    
+
+    <li class="toctree-l4"><a href="#operating-system-list_2">Operating System List</a></li>
+    
+
+    <li class="toctree-l4"><a href="#printing-elements-in-reversed-order">Printing Elements in Reversed Order</a></li>
+    
+
+    <li class="toctree-l4"><a href="#example-4-none-result-remon-tutor-example">Example 4 : none result (remon Tutor example)</a></li>
+    
+
+    <li class="toctree-l4"><a href="#the-same-example-but-printed-a-list">the same example but printed a list</a></li>
+    
+
+    </ul>
+                </li>
+    </ul>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Modules</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../Modules/secreat-message/">Secreat message</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">OOP</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../OOP/Classes_en/">Classes en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../OOP/Inheritance_en/">Inheritance en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../OOP/OOP_test/">OOP test</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Print</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../Print/Print_en/">Print en</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Strings</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../Strings/example/">Example</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Strings/strings_example_ar/">Strings example ar</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Strings/strings_example_en/">Strings example en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Strings/strings_example_fr/">Strings example fr</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">True and False</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../True and False/Boolean_Type_Fr/">Boolean Type Fr</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../True and False/Logic/">Logic</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../True and False/True_False_Examples_En/">True False Examples En</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Turtle</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../Turtle/House_en/">House en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Turtle/draw_circle_en/">Draw circle en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Turtle/draw_en/">Draw en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Turtle/draw_rectangle_en/">Draw rectangle en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Turtle/draw_square_en/">Draw square en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Turtle/draw_triangle_en/">Draw triangle en</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Twilio + Profanity</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../Twilio + Profanity/(Twilio + Profanity) Arabic version/">(Twilio + Profanity) Arabic version</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Twilio + Profanity/(Twilio + Profanity) English version/">(Twilio + Profanity) English version</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../Twilio + Profanity/(Twilio + Profanity) French version/">(Twilio + Profanity) French version</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Definitions</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../definitions/Data_Types_en/">Data Types en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../definitions/Function_Def_en/">Function Def en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../definitions/OOP_Def_en/">OOP Def en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../definitions/Python_Def_en/">Python Def en</a>
+                </li>
+    </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">Python bacics 101</span>
+    <ul class="subnav">
+                <li class="">
+                    
+    <a class="" href="../../../python_bacics_101/Arithemtic_operators_en/">Arithemtic operators en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../python_bacics_101/Assignment_operators_en/">Assignment operators en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../python_bacics_101/Comparison_operators_en/">Comparison operators en</a>
+                </li>
+                <li class="">
+                    
+    <a class="" href="../../../python_bacics_101/Datatype_convertion_en/">Datatype convertion en</a>
+                </li>
+    </ul>
+	    </li>
+          
+        </ul>
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../../..">Python Codes</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Lists &raquo;</li>
+        
+      
+        
+          <li>List Methods &raquo;</li>
+        
+      
+    
+    <li>reverse_en</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="reverse_en">reverse_en</h1>
+<p>added by @Azharoo
+Python 3</p>
+<p>The reverse() method reverses the elements of a given list.
+The reverse() function doesn't take any argument.
+The reverse() function doesn't return any value. It only reverses the elements and updates the list.</p>
+<h1 id="example-1-reverse-a-list">Example 1: Reverse a List</h1>
+<h1 id="operating-system-list">Operating System List</h1>
+<p>os = ['Windows', 'macOS', 'Linux']
+print('Original List:', os)</p>
+<h1 id="list-reverse">List Reverse</h1>
+<p>os.reverse()</p>
+<h1 id="updated-list">updated list</h1>
+<p>print('Updated List:', os)</p>
+<h1 id="example-2-reverse-a-list-using-slicing-operator">Example 2: Reverse a List Using Slicing Operator</h1>
+<h1 id="operating-system-list_1">Operating System List</h1>
+<p>os = ['Windows', 'macOS', 'Linux']
+print('Original List:', os)</p>
+<h1 id="reversing-a-list">Reversing a list</h1>
+<h1 id="syntax-reversed_list-osstartstopstep">Syntax: reversed_list = os[start:stop:step]</h1>
+<p>reversed_list = os[::-1]</p>
+<h1 id="updated-list_1">updated list</h1>
+<p>print('Updated List:', reversed_list)</p>
+<h1 id="example-3-accessing-individual-elements-in-reversed-order">Example 3: Accessing Individual Elements in Reversed Order</h1>
+<h1 id="operating-system-list_2">Operating System List</h1>
+<p>os = ['Windows', 'macOS', 'Linux']</p>
+<h1 id="printing-elements-in-reversed-order">Printing Elements in Reversed Order</h1>
+<p>for o in reversed(os):
+    print(o)</p>
+<h1 id="example-4-none-result-remon-tutor-example">Example 4 : none result (remon Tutor example)</h1>
+<p>def my_f(list):
+  list1 = list.reverse() 
+  return list1</p>
+<p>list =[10,20,40]</p>
+<p>print(my_f(list)) ## The result is None </p>
+<h1 id="the-same-example-but-printed-a-list">the same example but printed a list</h1>
+<p>def my_f(list):
+  list1 = list.reverse() 
+  return list</p>
+<p>list =[10,20,40]</p>
+<p>print(my_f(list))## [40, 20, 10]</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../../Modules/secreat-message/" class="btn btn-neutral float-right" title="Secreat message">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../reverse_ar/" class="btn btn-neutral" title="reverse_ar"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" style="cursor: pointer">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../reverse_ar/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../../../Modules/secreat-message/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '../../..';</script>
+    <script src="../../../js/theme.js"></script>
+      <script src="../../../search/require.js"></script>
+      <script src="../../../search/search.js"></script>
+
+</body>
+</html>
