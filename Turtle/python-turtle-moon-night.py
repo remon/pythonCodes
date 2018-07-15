@@ -8,7 +8,7 @@ import random
 #ciel 
 x = turtle.Turtle()
 window = turtle.Screen()
-window.bgcolor ("black")#("#0e0e3f")
+window.bgcolor ("black")
 x.hideturtle()
 title("Fatma Farjallah.")
 x.speed(0)
@@ -165,4 +165,4 @@ x.width(5)
 x.left(1)
 x.forward(27)
 
-done()
+window.exitonclick()
