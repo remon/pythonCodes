@@ -52,6 +52,13 @@ print id(str6)
 #example 7 = len()
 #added by @basmalakamal
 
+str7 = "Programming"
+print len(str7)
+#you can use this function to return the length of any string (the number of characters), Plank spaces and symbols are also characters in python
+
+=======
+
+
 
 
 
@@ -59,16 +66,73 @@ print id(str6)
 #example 8 = int()
 #added by @basmalakamal
 
+float1 = 7.0
+print int(float1)
+#it converts the variable into an integer 
+#so the output will be only 7
+=======
+
+
 
 
 #example 9 = str()
 #added by @basmalakamal
+
+number1 = 7383929
+print str(number1)
+#it converts the variable into a string 
+=======
+
 
 
 
 
 #example 10 = max()
 #added by @basmalakamal
+
+list1 = [5,6,7]
+print max(list1)
+#it returns the biggest value in a list so here the output will be 7
+
+
+
+#example 11 = replace()
+#added by @basmalakamal
+list2 = ["a","b","d"]
+a = list2.replace("d","c")
+print a
+#it will replace the string d with the string c so the value if a will be [a,b,c]
+
+
+
+#example 12 = append()
+#added by @basmalakamal
+list3 = [1,2,3]
+print list3.append(4)
+#it will append bumber 4 to the list so it will be [1,2,3,4]
+
+#example 13 = index()
+#added by @basmalakamal
+list4 = ["a","b","c"]
+print list4.index("c")
+#it will return the index of the string c which will be 2
+
+#example 14 = split()
+#added by @basmalakamal
+str8 = "Python"
+a = str8.split()
+print a
+#it will create a list that has every character of the string as an item of it 
+#outputs ["P","y","t","h","o","n"]
+
+#example 15 = join()
+#added by @basmalakamal
+list5 = ["P","y","t","h","o","n"]
+b =  list5.join()
+print b
+#it is the opposite of the split function it will join all items together into a string
+#outputs Python
+
 
 
 
@@ -91,6 +155,7 @@ print id(str6)
 
 #example 16 = join()
 #added by @basmalakamal
+
 
 
 
