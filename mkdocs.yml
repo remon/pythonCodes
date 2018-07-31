@@ -1,0 +1,4 @@
+site_name: Python Codes
+docs_dir: 'documentation_utils'
+theme: readthedocs
+site_dir: 'docs'

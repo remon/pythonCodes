@@ -51,9 +51,12 @@ print id(str6)
 
 #example 7 = len()
 #added by @basmalakamal
+
 str7 = "Programming"
 print len(str7)
 #you can use this function to return the length of any string (the number of characters), Plank spaces and symbols are also characters in python
+
+=======
 
 
 
@@ -62,24 +65,31 @@ print len(str7)
 
 #example 8 = int()
 #added by @basmalakamal
+
 float1 = 7.0
 print int(float1)
 #it converts the variable into an integer 
 #so the output will be only 7
+=======
+
 
 
 
 #example 9 = str()
 #added by @basmalakamal
+
 number1 = 7383929
 print str(number1)
 #it converts the variable into a string 
+=======
+
 
 
 
 
 #example 10 = max()
 #added by @basmalakamal
+
 list1 = [5,6,7]
 print max(list1)
 #it returns the biggest value in a list so here the output will be 7
@@ -122,6 +132,31 @@ b =  list5.join()
 print b
 #it is the opposite of the split function it will join all items together into a string
 #outputs Python
+
+
+
+
+#example 11 = sort()
+#added by @basmalakamal
+
+
+#example 12 = replace()
+#added by @basmalakamal
+
+
+#example 13 = append()
+#added by @basmalakamal
+
+#example 14 = index()
+#added by @basmalakamal
+
+#example 15 = split()
+#added by @basmalakamal
+
+#example 16 = join()
+#added by @basmalakamal
+
+
 
 
 

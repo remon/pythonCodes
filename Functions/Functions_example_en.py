@@ -32,6 +32,15 @@ def sum(x,y=6):
 print(sum(3))
 print ("----------------")
 
+#added by @engshorouq
+#example 5
+print("Example 5 ")
+def extend_list(val,my_list=[]):
+    my_list.append(val)
+    return my_list
+print(extend_list('first iteam'))
+print(extend_list('second iteam in same list'))
+print(extend_list("new list",[]))    
 
 
 

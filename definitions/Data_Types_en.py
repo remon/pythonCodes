@@ -27,8 +27,7 @@ print("""3)--Set is a collection which is unordered and unindexed.
        No duplicate members.""")
 print("________________________________________________________")
 
-print("""3)--Dictionary is a collection which is unordered,
-       changeable and indexed. No duplicate members.""")
+print("""4)--Dictionary is a collection which is unordered,.""")
 
 
 
