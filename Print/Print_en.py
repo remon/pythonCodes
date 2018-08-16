@@ -38,6 +38,11 @@ print (c).upper() , (d).lower()
 print str(x) +(" ")+ (c)
 
 
+a = [5,6,7,8,9]
+print(a[True])
+print(a[False])
+
+
 
 
 
