@@ -1,5 +1,6 @@
+# Here we will show sorting in lists
 # Lists have 2 main methods for sorting - sort and sorted
-
+# added by jagritvats
 # sort methods sorts the lists while sorted method does not modify the list but returns the sorted lists
 
 li=[7,3,9,1,0] 
