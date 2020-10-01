@@ -8,7 +8,7 @@ Students from 22 arab countries add their python examples and tutorials to make 
 
 ## Getting Started
 
-The project is divided into categories , each category contains subcategories and examples for it in three different languages (English , Arabic and French).
+The project is divided into various categories and each category contains subcategories and examples for it in three different languages (English , Arabic and French).
 
 
 
