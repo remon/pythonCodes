@@ -45,5 +45,10 @@ str1 = "hi "
 str2 = "there !"
 print (str1 + str2) 
 
+#example 6
+#added by @madforpython
+#This example demonstrates how to reverse string
+str5='Hey Contributers'
+print(str5[::-1])
 
 
